@@ -1,14 +1,17 @@
 # ProxmoxFullStack
 a Full-Stack Website using Vue.Js &amp; React, integrating with my Proxmox Server via Python Flask
 
-How to
+# How to:
 Create a Python Virtual Environment
-`backend/venv/bin/activate`
 
-Packages need to be installed
-`pip install -r requirements.txt`
+### Windows:
+> backend/venv/Scripts/activate
 
-Finally to initalise the Deployment
-`python backend/app.py`
+### MacOS:
+> source backend/venv/bin/activate
 
-\br
+## Packages need to be installed
+> pip install -r requirements.txt
+
+## Finally to initalise the Deployment
+> python backend/app.py
