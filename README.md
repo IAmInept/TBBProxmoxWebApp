@@ -3,7 +3,12 @@ a Full-Stack Website using Vue.Js &amp; React, integrating with my Proxmox Serve
 
 How to
 Create a Python Virtual Environment
-`source /venv/bin/activate`
+`backend/venv/bin/activate`
 
-The initalise the Deployment
-`python3 app.py`
+Packages need to be installed
+`pip install -r requirements.txt`
+
+Finally to initalise the Deployment
+`python backend/app.py`
+
+\br
