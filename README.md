@@ -2,7 +2,7 @@
 a Full-Stack Website using Vue.Js &amp; React, integrating with my Proxmox Server via Python Flask
 
 # How to:
-##Create a Python Virtual Environment  
+## Create a Python Virtual Environment  
 `python -m venv .\venv\`
 
 ### Windows:
