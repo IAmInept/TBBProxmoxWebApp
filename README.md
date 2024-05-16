@@ -7,7 +7,7 @@ a Full-Stack Website using Vue.Js &amp; React, integrating with my Proxmox Serve
 
 ## Activate the Python Virtual Environment  
 ### Windows:
-`/venv/Scripts/activate`
+`.\venv\Scripts\activate`
 
 ### MacOS:
 `source /venv/bin/activate`
