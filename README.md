@@ -12,7 +12,7 @@ a Full-Stack Website using Vue.Js &amp; React, integrating with my Proxmox Serve
 ### MacOS:
 `source backend/venv/bin/activate`
 
-## Packages need to be installed
+## Install the necessary packages
 `pip install -r requirements.txt`
 
 ## Finally to initalise the Deployment
