@@ -1,5 +1,5 @@
 # ProxmoxFullStack
-a Full-Stack Website using Vue.Js &amp; React, integrating with my Proxmox Server via Python Flask
+a Full-Stack Website using React &amp; Vite, with Flask as a backend.
 
 # How to:
 ## Create a Python Virtual Environment  
